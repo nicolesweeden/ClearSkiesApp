@@ -7,8 +7,9 @@
 }
 
 body {
-    background-image: url("/img/sky.jpg");
-    background-repeat: no-repeat;
+    /*background: linear-gradient(to left, #ba8b02, #181818); HERE IN CASE I WANT TO DO GRADIENT BG INSTEAD*/
+    /*background: url("/src/img/sky.jpg") no-repeat; UNSURE WHY THIS DID NOT WORK, DOUBLE QUOTES PERHAPS?*/
+    background: url('../img/sky.jpg') no-repeat center;
     background-size: cover;
     overflow: hidden;
     height: 100vh;
