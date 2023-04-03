@@ -25,4 +25,38 @@ body {
     min-width: 100%;
     min-height: 100%;
     z-index: -1;
+    overflow: hidden;
 }
+
+.container {
+    padding: 20px 70px;
+}
+
+.current-info {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap
+}
+
+.date-container {
+    font-weight: 100;
+}
+
+.date-container .time {
+    font-size: 70px;
+}
+
+.date-container #am-pm {
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.date-container .date {
+    font-size: 30px;
+}
+
+
+
+
+
+
