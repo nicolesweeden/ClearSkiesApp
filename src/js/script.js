@@ -14,6 +14,7 @@ const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
 
 const API_KEY = 'e5fd451a1ca495c311a214ee0f63f6e8';
 
+// updates weather information every second
 setInterval(() => {
     const time = new Date();
     const month = time.getMonth();
