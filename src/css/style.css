@@ -124,6 +124,7 @@ body {
     display: flex;
 }
 
+
 .weather-forecast .weather-forecast-item {
     display: flex;
     flex-direction: column;
