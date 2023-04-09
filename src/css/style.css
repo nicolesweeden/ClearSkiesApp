@@ -96,7 +96,6 @@ body {
     justify-content: center;
 }
 
-
 /*styling for first (Monday) box at the bottom left */
 .future-forecast .today {
     display: flex;
