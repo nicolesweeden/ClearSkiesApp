@@ -59,6 +59,7 @@ body {
     text-align: end;
 }
 
+
 .place-container .timezone {
     font-size: 30px;
     font-weight: 100;
@@ -68,7 +69,6 @@ body {
     font-size: 12px;
     font-weight: 700;
 }
-
 
 .current-info .others {
     display: flex;
